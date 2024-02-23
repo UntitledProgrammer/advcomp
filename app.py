@@ -1,4 +1,5 @@
 from flask import Flask, render_template
+import notes
 
 app = Flask(__name__)
 
